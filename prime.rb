@@ -3,5 +3,6 @@ def prime?(num)
     return false
   end
   i = 2
-  while i <= num/2
+  while i < num
+  
   
