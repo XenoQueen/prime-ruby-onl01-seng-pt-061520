@@ -8,5 +8,6 @@ def prime?(num)
       return false
     end
     i += 1
-    
-  
+  end
+  true
+end
